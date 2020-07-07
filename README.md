@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey I'm Ponder. I currently work at Lehigh University as the Assistant Lighting Coordinator of the Zoellner Arts Center. I am mostly an itenerate lighting tech, but I am learning some coding, and trying to pick up some other skills while I can. 
+Hey I'm Ponder. I currently work at Lehigh University as the Assistant Lighting Coordinator of the Zoellner Arts Center. I am mostly an itenerant lighting tech, but I am learning some coding, and trying to pick up some other skills while I can. 
 
 I am taking this class to learn more about how data and information is processed and communicated. I have a strong backing in how narratives are communicated, but no first hand experience in how data is processed and passed around. I'd like to fix that, and am always looking for ways to obtain new skills and information.
 
