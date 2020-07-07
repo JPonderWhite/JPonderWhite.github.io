@@ -15,10 +15,10 @@ I am taking this class to learn more about how data and information is processed
 I'm experimenting with how different charts affect impact of data presented. So here is a quick series of charts based off of the same data from the Federal Reserve. The first two will show overall trends. The first measuring percentage of total wealth (in USD trillions), the second chart will be raw total wealth. All will be measured by Income Percentile. I don't think that the first chart is very impactful. It is very static and you can't see much change. The second chart I think works a lot better.
 
 <iframe title="Distribution of US Household Wealth by Income Percentile" aria-label="Interactive line chart" id="datawrapper-chart-eybcj" src="https://datawrapper.dwcdn.net/eybcj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+</script>  
 
 <iframe title="Distribution of US Household Wealth by Income Percentile" aria-label="Interactive line chart" id="datawrapper-chart-u98PQ" src="https://datawrapper.dwcdn.net/u98PQ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+</script>  
 
 
 # Lehigh Enrollment 2017
