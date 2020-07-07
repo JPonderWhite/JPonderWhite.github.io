@@ -12,7 +12,7 @@ I am taking this class to learn more about how data and information is processed
 
 
 # US Federal Reserve Charts
-I'm experimenting with how different charts affect impact of data presented. So here is a quick series of charts based off of the same data from the Federal Reserve. The first two will show overall trends. The first measuring percentage of total wealth (in USD trillions), the second chart will be raw total wealth. The next series of charts will compare the earliest data (1989) to the most recent (2020). All will be measured by Income Percentile. 
+I'm experimenting with how different charts affect impact of data presented. So here is a quick series of charts based off of the same data from the Federal Reserve. The first two will show overall trends. The first measuring percentage of total wealth (in USD trillions), the second chart will be raw total wealth. The next series of charts will compare the earliest easily available data (1989) to the most recent (2020). All will be measured by Income Percentile. 
 
 
 ### Wealth over time
