@@ -12,7 +12,7 @@ I am taking this class to learn more about how data and information is processed
 
 
 ## Lehigh Enrollment 2017
-This is series of pie chart I made for my Data Storytelling class. They show undergraduate enrollment at the various colleges at Lehigh University, first by a gender breakdown, and then by total enrollment. They show that the College of Arts and Sciences is the largest, making up about 36% of Lehighs total enrollment. With the College of Engineering, and the College of Buisness being the next most populous in second and third place respectively.
+This is series of pie chart I made for my Data Storytelling class. They show undergraduate enrollment at the various colleges at Lehigh University, first by a gender breakdown, and then by total enrollment. They show that the College of Arts and Sciences is the largest, with the College of Engineering, and the College of Buisness being the next most populous in second and third place respectively.
 
 <iframe title="Lehigh Enrollment 2017" aria-label="chart" id="datawrapper-chart-ukKJG" src="https://datawrapper.dwcdn.net/ukKJG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
