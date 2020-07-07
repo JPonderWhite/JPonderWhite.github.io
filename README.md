@@ -27,10 +27,14 @@ I don't think that the first chart is very impactful. It is very static and you 
 
 
 ### Comparing 1989 to 2020
-The two are pie charts. The only difference being that the first is in terms of % of total, while the second gives the relevant numbers.
+The two are pie charts. The only difference being that the first is in terms of % of total, while the second gives the relevant numbers. I'm honestly not sure which I think is more impactful. 
 
 
 <iframe title="Distribution of US Household Wealth by Income Percentile" aria-label="chart" id="datawrapper-chart-rvAHM" src="https://datawrapper.dwcdn.net/rvAHM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+<iframe title="Distribution of US Household Wealth by Income Percentile" aria-label="chart" id="datawrapper-chart-4Uctf" src="https://datawrapper.dwcdn.net/4Uctf/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
