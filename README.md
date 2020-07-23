@@ -10,6 +10,10 @@ Hey I'm Ponder. I currently work at Lehigh University as the Assistant Lighting 
 
 I am taking this class to learn more about how data and information is processed and communicated. I have a strong backing in how narratives are communicated, but no first hand experience in how data is processed and passed around. I'd like to fix that, and am always looking for ways to obtain new skills and information.
 
+# ArcGIS Twitter Heatmap
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="portland_twitter_7_21" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=4650a4ead59e443a8c304705e2252f38&extent=-141.4781,13.8799,-37.9429,55.9487&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+
 
 # US Federal Reserve Charts
 I'm experimenting with how different charts affect impact of data presented. So here is a quick series of charts based off of the same data from the Federal Reserve. The first two will show overall trends. The first measuring percentage of total wealth (in USD trillions), the second chart will be raw total wealth. The next series of charts will compare the earliest easily available data (1989) to the most recent (2020). All will be measured by Income Percentile. 
