@@ -12,11 +12,11 @@ I am taking this class to learn more about how data and information is processed
 
 # ArcGIS Twitter Heatmap
 
-This is a tweetmap taken on 7/21/2020 based around the searchterm #portland.
+This is a tweetmap taken on 7/21/2020 based around the searchterm #portland. [This article](https://www.opb.org/news/article/federal-law-enforcement-unmarked-vehicles-portland-protesters/) from Oregon Public Broadcasting had broken a week prior with the news of unidentified federal officers illegally arresting protesters the week prior, and the news that the program was being expanded to Kansas City and Chicago was just breaking. #portland was chosen instead of #portlandprotest to try and get more tweets about the federal officers and the program rather than tweets about the protests in general. 
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="portland_twitter_7_21" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=4650a4ead59e443a8c304705e2252f38&extent=-141.4781,13.8799,-37.9429,55.9487&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
 
-You can clearly see the vast majority of the tweets are coming from Portland, and its direct surroundings. After that it holds to population pretty closely, with biases towards west coast cities and Washington, DC. There are a few surprises, but that seems to be mostly based on how Twitter determines location. I'm a bit surprised not to be seeing more activity from Kansas City and Chicago, but perhaps a more recent heatmap would tell a different story.
+You can clearly see the vast majority of the tweets are coming from Portland, and its direct surroundings. After that it holds to population pretty closely, with biases towards west coast cities and Washington, DC. There are a few surprises, but that seems to be mostly based on how Twitter determines location. I'm a bit surprised not to be seeing more activity from Kansas City and Chicago, but perhaps a more recent heatmap taken a few days later would tell a different story.
 
 
 # US Federal Reserve Charts
