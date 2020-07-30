@@ -10,7 +10,9 @@ Hey I'm Ponder. I currently work at Lehigh University as the Assistant Lighting 
 
 I am taking this class to learn more about how data and information is processed and communicated. I have a strong backing in how narratives are communicated, but no first hand experience in how data is processed and passed around. I'd like to fix that, and am always looking for ways to obtain new skills and information.
 
-# Tableau 
+# Tableau
+
+test
 
 <script type='text/javascript'> var divElement = document.getElementById('viz1596150429897'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='977px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
