@@ -28,6 +28,13 @@ These charts show total wealth (in US $ trillions) by Income Percentile over tim
   
   
 The second chart is the most impactful to me. You can clearly see the (relatively) recent explosion of wealth among the top percentile of earners. From controlling slightly less than the bottom 60%, still a massive accumulation, to now being worth close to double. This means that the top roughly 3 million people controll more than double the wealth of the bottom 180,000,000 people. The 2nd quarter of 2020 reports were just released, and I'm interested to see how the mass unemployment will contribute to this massive disparity.
+  
+  
+# Google Tour to the Star of Bethlehem
+
+A Google Tour I did with some 360 videos. The lockdown was getting to me so I did this one about getting out of the apt to a place with a view. 
+
+<iframe width="100%" height="480px" src="https://poly.google.com/view/dDKCUJHeLet/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 # ArcGIS Twitter Heatmap
 
