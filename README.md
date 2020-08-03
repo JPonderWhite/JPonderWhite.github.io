@@ -36,6 +36,7 @@ A Google Tour I did with some 360 videos. The lockdown was getting to me so I di
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/dDKCUJHeLet/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
+
 # ArcGIS Twitter Heatmap
 
 This is a tweetmap taken on 7/21/2020 based around the searchterm #portland. [This article](https://www.opb.org/news/article/federal-law-enforcement-unmarked-vehicles-portland-protesters/) from Oregon Public Broadcasting had broken a week prior with the news of unidentified federal officers illegally arresting protesters the week prior, and the news that the program was being expanded to Kansas City and Chicago was just breaking. #portland was chosen instead of #portlandprotest to try and get more tweets about the federal officers and the program rather than tweets about the protests in general. 
