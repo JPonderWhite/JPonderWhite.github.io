@@ -8,7 +8,7 @@
 
 Hey I'm Ponder. I currently work at Lehigh University in the Zoellner Arts Center. I am mostly an itinerant lighting tech, but I am learning some coding, and trying to pick up some other skills while I can. 
 
-I took a Data Journalism class to learn more about how data and information is processed and communicated. I have a strong backing in how narratives are communicated, but had no first hand experience in how data is processed and passed around. I wanted to fix that, and am always looking for ways to obtain new skills and information, so the class seemed like an easy choice. This is a portfolio of some of the work I did.
+I took a Data Storytelling class to learn more about how data and information is processed and communicated. I have a strong backing in how narratives are communicated, but had no first hand experience in how data is processed and passed around. I wanted to fix that, and am always looking for ways to obtain new skills and information, so the class seemed like an easy choice. This is a portfolio of some of the work I did.
 
 # Twitter Heatmaps
 
